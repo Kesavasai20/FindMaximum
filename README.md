@@ -11,7 +11,7 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 
 i)	# To find the maximum of marks using the list method sort.
-```
+```Python
 Program to mark the maximum of marks using the list method sort
 Developed by: K Kesava sai
 RegisterNumber: 23002539
